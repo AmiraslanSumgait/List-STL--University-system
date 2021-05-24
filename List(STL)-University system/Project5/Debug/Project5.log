@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\Amiraslan\source\repos\Project5\Project5\University.h(30,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(8,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(8,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(9,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(9,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(10,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(10,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(11,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(11,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(12,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(12,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(13,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(13,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(14,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(14,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(15,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(15,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(16,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(16,38): warning C4309: 'argument': truncation of constant value
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(17,1): warning C4305: 'argument': truncation from '__int64' to 'const size_t'
+C:\Users\Amiraslan\source\repos\Project5\Project5\Source.cpp(17,39): warning C4309: 'argument': truncation of constant value
+  Project5.vcxproj -> C:\Users\Amiraslan\source\repos\Project5\Debug\Project5.exe
